@@ -1,0 +1,8 @@
+.products-container {
+    width: 90%;
+    margin-top: 5rem;
+    margin-inline: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2rem;
+}
